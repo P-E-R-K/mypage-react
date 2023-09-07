@@ -1,0 +1,25 @@
+.bigblue {
+    color: DodgerBlue;
+    padding: 40px;
+    font-family: Sans-Serif;
+    text-align: center;
+  }
+
+.bigred {
+    color: rgb(250, 0, 0);
+    padding: 40px;
+    font-family: Sans-Serif;
+    text-align: center;
+  }
+
+  form {
+    padding: 1rem;
+  }
+
+  body {
+    background-color: #282c34;
+    color: white;
+    padding: 40px;
+    font-family: Sans-Serif;
+    text-align: center;
+  }
