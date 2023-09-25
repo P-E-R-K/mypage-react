@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.cbd1ad86.css","mappings":"AAAA,KACI,wBAAyB,CACzB,UAAY,CAEZ,sBAAuB,CADvB,YAAa,CAEb,iBACF","sources":["App.css"],"sourcesContent":["body {\r\n    background-color: #282c34;\r\n    color: white;\r\n    padding: 40px;\r\n    font-family: Sans-Serif;\r\n    text-align: center;\r\n  }"],"names":[],"sourceRoot":""}
